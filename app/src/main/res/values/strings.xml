@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic Tac game</string>
+    <string name="welcome_msg">Wellcome to Tic-Tac toe Game.</string>
+    <string name="dvlpd_by">Developed by: SARAWER</string>
+    <string name="status">X\'s turn-Tap to play</string>
+</resources>
